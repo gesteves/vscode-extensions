@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "coenraads.bracket-pair-colorizer",
+    "mrmlnc.vscode-duplicate",
+    "dbaeumer.vscode-eslint",
+    "sdras.night-owl",
+    "ziyasal.vscode-open-in-github",
+    "shan.code-settings-sync",
+    "jaspernorth.vscode-pigments"
+  ]
+}
